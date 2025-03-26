@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Инъекция жасау техникалары</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f2f2f2;
+    }
+    header {
+      background-color: #007bff;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #0056b3;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+    }
+    main {
+      padding: 20px;
+    }
+    section {
+      background-color: white;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #007bff;
+    }
+    footer {
+      background-color: #007bff;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Инъекция жасау техникалары</h1>
+  </header>
+  <nav>
+    <a href="#intro">Кіріспе</a>
+    <a href="#intramuscular">Бұлшықет ішіне</a>
+    <a href="#subcutaneous">Тері астына</a>
+    <a href="#intravenous">Көктамырға</a>
+  </nav>
+  <main>
+    <section id="intro">
+      <h2>Кіріспе</h2>
+      <p>Инъекция – дәрі-дәрмекті ағзаға енгізудің маңызды тәсілдерінің бірі. Бұл сайтта сіздер инъекция жасаудың негізгі техникаларымен таныса аласыздар.</p>
+    </section>
+    <section id="intramuscular">
+      <h2>Бұлшықет ішіне инъекция</h2>
+      <p>Бұлшықет ішіне инъекция – дәріні бұлшықет тініне енгізу әдісі. Ең жиі қолданылатын орындар: дельта тәрізді бұлшықет, сан және мықын бұлшықеті.</p>
+      <ul>
+        <li>Қолды және теріні зарарсыздандыру</li>
+        <li>Ине мен шприцті дұрыс таңдау</li>
+        <li>Бұлшықетке 90° бұрышпен енгізу</li>
+      </ul>
+    </section>
+    <section id="subcutaneous">
+      <h2>Тері астына инъекция</h2>
+      <p>Тері астына инъекция – дәріні тері асты май қабатына енгізу әдісі. Қолданылатын аймақтар: іштің алдыңғы жағы, жамбас, иық.</p>
+      <ul>
+        <li>Қол мен орын зарарсыздандырылады</li>
+        <li>Ине 45° бұрышпен енгізіледі</li>
+        <li>Препарат баяу енгізіледі</li>
+      </ul>
+    </section>
+    <section id="intravenous">
+      <h2>Көктамырға инъекция</h2>
+      <p>Көктамыр ішіне инъекция – дәріні тікелей қан айналымына енгізу әдісі. Бұл әдіс жылдам әсер береді.</p>
+      <ul>
+        <li>Тамыр таңдалады және жгут салынады</li>
+        <li>Қол мен орын зарарсыздандырылады</li>
+        <li>Ине тамырға енгізіледі және дәрі егіледі</li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>© 2025 Мейіргер ісі негіздері</p>
+  </footer>
+</body>
+</html>
